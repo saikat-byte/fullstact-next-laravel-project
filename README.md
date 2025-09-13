@@ -28,10 +28,30 @@ This project demonstrates **CRUD operations, authentication, and REST API integr
 
 ---
 
-## 📸 Screenshots
+## 📸 Laravel Backend Screenshots
+
 ### Login page
 
 ![Login Page Screenshot](/screenshots/admin-login1.png)
+
+### Two factor authentication
+
+![Two Factor Screenshot](/screenshots/two-factor-auth.png)
+
+### Admin Dashboard 1
+
+![Admin dashboard 1 Screenshot](/screenshots/admin-dashboard-1.png)
+
+### Admin Dashboard 2
+
+![Admin dashboard 2 Screenshot](/screenshots/admin-dashboard-2.png)
+
+
+
+
+### Nextjs frontend
+
+![Frontend slider Screenshot](/screenshots/nextslider-screen-shot.png)
 
 ```markdown
 
