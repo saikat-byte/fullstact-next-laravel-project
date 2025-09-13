@@ -31,7 +31,7 @@ This project demonstrates **CRUD operations, authentication, and REST API integr
 ## 📸 Screenshots
 ### Login page
 
-![Login Page Screenshot](/backend_laravel/public/backend/assets/images/screenshots/admin-login1.png)
+![Login Page Screenshot](/screenshots/admin-login1.png)
 
 ```markdown
 
